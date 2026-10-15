@@ -416,8 +416,6 @@ color: red;
 
 @media (max-width: 800px) {
 
-    /* Navigation */
-
     .nav {
         display: none;
     }
